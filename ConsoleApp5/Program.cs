@@ -25,7 +25,7 @@ namespace ConsoleApp5
     {
         public virtual void Sound()
         {
-            Console.WriteLine("Animal");
+            Console.WriteLine("Animal Hej");
         }
     }
     class Cat : Animal
